@@ -1,0 +1,9 @@
+DataStrcutures are the basic elements from which large & complex Software Projects are built.
+
+To understand datastructures , its essential to learn 
+	1. how the information is arranged in memory of the computer 
+	2. algorithms for manipulating information contained in data structure
+	3. perf characteristics of datastructures ,so suitable data structure for particular application can be chosen.
+
+datastructures and algorithms are the important aspects of computer science as they form the fundamental blocks of developing logical solutions to problems.
+and writing programs that permorm tasks "OPTIMALLY"
